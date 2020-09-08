@@ -13,5 +13,4 @@ export default function formatNumber(number, option) {
     return `$ ${formattedNumber}`;
   }
   return `${formattedNumber}`;
-
 }
